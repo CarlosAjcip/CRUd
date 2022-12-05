@@ -1,0 +1,15 @@
+D:\ejercicio_1\ejercicio_1\bin\Debug\net6.0\ejercicio_1.exe
+D:\ejercicio_1\ejercicio_1\bin\Debug\net6.0\ejercicio_1.deps.json
+D:\ejercicio_1\ejercicio_1\bin\Debug\net6.0\ejercicio_1.runtimeconfig.json
+D:\ejercicio_1\ejercicio_1\bin\Debug\net6.0\ejercicio_1.dll
+D:\ejercicio_1\ejercicio_1\bin\Debug\net6.0\ejercicio_1.pdb
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\ejercicio_1.csproj.AssemblyReference.cache
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\ejercicio_1.AssemblyInfoInputs.cache
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\ejercicio_1.AssemblyInfo.cs
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\ejercicio_1.csproj.CoreCompileInputs.cache
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\ejercicio_1.dll
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\refint\ejercicio_1.dll
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\ejercicio_1.pdb
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\ejercicio_1.genruntimeconfig.cache
+D:\ejercicio_1\ejercicio_1\obj\Debug\net6.0\ref\ejercicio_1.dll
